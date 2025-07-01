@@ -15,9 +15,9 @@
 - Aku bukan mahasiswa IT maupun programmer, coding hanyalah hobi
 
 ### 💡 Project-projectku:
-- [Web App Projects](https://revo-lusi.github.io/web-app-projects/)
-- [HTML5 Canvas 2D Projects](https://revo-lusi.github.io/html5-canvas-2d-projects/)
-- [CSS Animation 3D Projects](https://revo-lusi.github.io/css-animation-3d-projects/)
+- [Web App Projects](https://revo-lusi0.github.io/web-app-projects/)
+- [HTML5 Canvas 2D Projects](https://revo-lusi0.github.io/html5-canvas-2d-projects/)
+- [CSS Animation 3D Projects](https://revo-lusi0.github.io/css-animation-3d-projects/)
 
 ### 📫 Untuk mengenal lebih lanjut:
 <p align="center">
